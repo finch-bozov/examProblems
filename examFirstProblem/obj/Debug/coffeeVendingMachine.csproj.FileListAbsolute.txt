@@ -5,3 +5,10 @@ C:\Users\peter.bozov\source\repos\coffeeVendingMachine\obj\Debug\coffeeVendingMa
 C:\Users\peter.bozov\source\repos\coffeeVendingMachine\obj\Debug\coffeeVendingMachine.csproj.CoreCompileInputs.cache
 C:\Users\peter.bozov\source\repos\coffeeVendingMachine\obj\Debug\coffeeVendingMachine.exe
 C:\Users\peter.bozov\source\repos\coffeeVendingMachine\obj\Debug\coffeeVendingMachine.pdb
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\bin\Debug\coffeeVendingMachine.exe.config
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\bin\Debug\coffeeVendingMachine.exe
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\bin\Debug\coffeeVendingMachine.pdb
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\obj\Debug\coffeeVendingMachine.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\obj\Debug\coffeeVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\obj\Debug\coffeeVendingMachine.exe
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\examFirstProblem\obj\Debug\coffeeVendingMachine.pdb

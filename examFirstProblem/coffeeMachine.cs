@@ -31,9 +31,17 @@ class Program
         double totalOfLev = coinsLev * 1.00;
         double sumOfMoney = totalOfFive + totalOfTen + totalOfTwenty + totalOfFifty + totalOfLev;
 
-        while (difference > 0)
+        if (moneyGiven > drinkPrice)
         {
-
+            double change = moneyGiven - drinkPrice;
+            if (change <= sumOfMoney)
+            {
+                Console.WriteLine("Yes {0:0.00}", sumOfMoney - change);
+            }
+            else
+            {
+                Console.WriteLine("No {0:0.00}", change - sumOfMoney);
+            }
         }
     }
 }
