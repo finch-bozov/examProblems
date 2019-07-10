@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\bin\Debug\bullsAndCows.exe.config
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\bin\Debug\bullsAndCows.exe
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\bin\Debug\bullsAndCows.pdb
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\obj\Debug\01.bullsAndCows.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\obj\Debug\01.bullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\obj\Debug\bullsAndCows.exe
+C:\Users\peter.bozov\source\repos\coffeeVendingMachine\bullsAndCows\obj\Debug\bullsAndCows.pdb
